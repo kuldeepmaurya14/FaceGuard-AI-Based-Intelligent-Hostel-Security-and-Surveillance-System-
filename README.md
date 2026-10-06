@@ -500,5 +500,3 @@ This project uses:
 
 ---
 
-*Last Updated: June 27, 2026*  
-*Version: 1.0 (Copy Project)*
